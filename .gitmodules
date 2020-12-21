@@ -1,0 +1,6 @@
+[submodule "Assets/UnityExtensions"]
+	path = Assets/UnityExtensions
+	url = https://github.com/Hfernan/UnityExtensions.git
+[submodule "KT_RNG"]
+	path = Assets/KT_RNG
+	url = https://github.com/Hfernan/KT_RNG.git
