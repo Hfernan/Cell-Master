@@ -10,8 +10,6 @@ In the game you need to breed cells. The cells mutate their color when they repl
 
 The repository contains the Unity project. Just clone it and open it up on Unity.
 
-If you don't have access to the extensions used you can ask for permission or just patch out the errors.
-
 ## Build
 
 There is a build on my itch.io profile, you may download the game itself there.
